@@ -1,5 +1,9 @@
 # MyWebSite
 
+## 預覽網頁：
+
+    http://imge.co.network/
+
 ## 主要功能：
 
 ### 1. 資料庫的運用
