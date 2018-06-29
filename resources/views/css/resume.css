@@ -1,0 +1,87 @@
+body{
+        /*font-size: 13px;*/
+}
+
+
+.contentbg{
+    margin-left: auto; 
+    margin-right: auto;
+    border: 1px solid black;
+    width: 790px;
+    height: 1117px;
+    background-color: white;
+}
+
+/*------------上半部----------*/
+.face{
+    width:176px; 
+    float: left; 
+    text-align: center;
+}
+
+.topbg{
+    float: left; 
+    width: 80%; 
+    margin: 4.5% 7% 0 7%;
+    padding: 0 3% 2% 3%;
+    border-bottom: 1px solid black;
+}
+
+.status{
+    width: 72%;
+}
+
+.status td{
+    padding-left: 37px;
+}
+/*-----------上半部------------*/
+
+/*-----------中間------------*/
+.warning{
+    color: red;
+    text-align: center;
+}
+
+.midbg{
+    float: left; 
+    width: 80%; 
+    margin: 0 7% 0 7%;
+    padding: 0 3% 0 3% ;
+}
+
+.title{
+    margin-top: 5%;
+}
+
+.content{
+    margin-left: 2%;
+}
+
+.content_mid{
+    width:100%; 
+    float: left; 
+    margin-bottom: 12px;
+    
+}
+
+.skill td{
+    padding: 0 7px 5px 14px;
+}
+
+.langue{
+    float:left;
+    margin-top: 1.5%;
+    margin-left: 10%;
+    
+}
+
+.lang td{
+    padding-left: 14px;
+    padding-right: 10px;
+}
+
+.exp li{
+    margin-bottom:6px; 
+    
+}
+/*-----------中間------------*/
