@@ -3,6 +3,12 @@
 ## 預覽網頁：
 
     http://imge.co.network/
+    
+    
+## 簡介：
+
+    我練習Laravel用的網頁
+
 
 ## 主要功能：
 
